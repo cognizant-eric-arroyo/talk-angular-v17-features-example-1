@@ -7,12 +7,6 @@ npm run start
 1. Add `standalone: true` to title.component.ts
 2. Import it in AppModule
 
-Or
-
-1. Add `standalone: true` to title.component.ts
-2. Add `standalone: true` to app.component.ts
-3. Import both in AppModule
-
 # To change from NgModules to standalone everything:
 
 1. Make TitleComponent standalone
